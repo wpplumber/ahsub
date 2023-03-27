@@ -1,0 +1,7 @@
+{
+  "appId": "com.ahsub.app",
+  "appName": "ahsub",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ahsub",
+  "version": "0.0.2",
+  "description": "Calculator",
+  "author": "wpplumber <mail.tarik.rital@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "@capacitor/ios": "2.5.0"
+  }
+}

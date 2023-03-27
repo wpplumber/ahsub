@@ -1,2 +1,3 @@
 # ahsub
-AHSUB is a simple calculator with basic arithmetic. 
+
+AHSUB is a simple calculator with basic arithmetic.
